@@ -17,8 +17,8 @@ nav {
 	left: 0;
   z-index: 100;
 	width: 100%;
-	background-color: white;
-	box-shadow: 0px 0.233px 8px lightgray;
+	background-color: rgb(255, 255, 255);
+	box-shadow: 0px 0.233px 8px rgb(45, 62, 128);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -64,17 +64,17 @@ nav {
     text-decoration: none;
     padding: 1rem 2rem;
     font-size: 15px;
-    color: rgb(82, 81, 81);
+    color: rgb(14, 1, 1);
     
   }
 
   .navigation-menu li a:hover:not(.activeNav){
-    background-color: whitesmoke;
+    background-color: rgb(245, 245, 245);
     color: var(--primary);
   }
 
   .userInfoNav{
-    border: 1px solid lightgray;
+    border: 1px solid rgb(184, 13, 121);
     padding: 5px 20px;
     border-radius: 5px;
     margin-left: 10px;

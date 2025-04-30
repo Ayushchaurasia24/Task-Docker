@@ -11,8 +11,8 @@ function Landing() {
             <div className={styles.landing__text}>
                 <h1>Schedule Your Daily Tasks With <span className="primaryText">DoDo!</span></h1>
             <div className='btnWrapper'>
-            <Link to="/regiser" className="primaryBtn">Register</Link>
-                <Link to="/login" className='secondaryBtn'>Login</Link>
+            <Link to="/register" className="primaryBtn">Register</Link>
+            <Link to="/login" className='secondaryBtn'>Login</Link>
             </div>
             </div>
 
