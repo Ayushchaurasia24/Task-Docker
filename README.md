@@ -1,4 +1,4 @@
-📝 TodoApp
+📝 Task-Docker
 
 A full-stack Todo application designed to help users manage their tasks efficiently. Built with a modern tech stack, this app allows users to create, read, update, and delete tasks seamlessly.
 
